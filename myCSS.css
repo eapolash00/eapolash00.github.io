@@ -1,0 +1,47 @@
+body,
+.bgclr {
+    background-color: #2C3E50;
+    color: #FFFFFF;
+
+}
+
+.icon_link {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.icon_link:link {
+    color: #FFFFFF;
+}
+
+
+.icon_link:visited {
+    color: #FFFFFF;
+}
+
+.icon_link:hover {
+    color: #FFFFFF;
+}
+
+.icon_link:active {
+    color: #FFFFFF;
+
+}
+
+.img_border {
+    border: 5px solid whitesmoke;
+}
+
+.name_style {
+    text-decoration: underline whitesmoke 6px;
+}
+
+/* .video_div {
+    margin-left: -210px;
+}
+
+@media (max-width:1199px) {
+    .video_div {
+        margin-left: -270px;
+    }
+} */
